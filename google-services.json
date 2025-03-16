@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4228165165",
+    "project_id": "lingo-dc676",
+    "storage_bucket": "lingo-dc676.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4228165165:android:0317406848767c26ed12a4",
+        "android_client_info": {
+          "package_name": "con.mrperfect.lingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdYaESbZIZz87TIMr7vo-79921BeTpFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

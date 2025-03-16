@@ -1,0 +1,3 @@
+run = "bash gradlew assembleDebug"
+language = "kotlin"
+entrypoint = "app/src/main/java/com/example/whatsappclone/MainActivity.kt"
